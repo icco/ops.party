@@ -1,0 +1,9 @@
+language: node_js
+deploy:
+  provider: onesie
+  edge:
+    source: icco/dpl
+    branch: onesie
+  key: 1193dc06-d1be-461d-9025-97c4cc50319b
+  secret: 42fdd727-19ed-4297-99aa-1660b5d4754b
+  domain: ops.party
