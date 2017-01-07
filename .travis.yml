@@ -6,5 +6,6 @@ deploy:
     source: icco/dpl
     branch: onesie
   key: 1193dc06-d1be-461d-9025-97c4cc50319b
-  secret: 42fdd727-19ed-4297-99aa-1660b5d4754b
+  secret:
+    secure: "PuzolxXztg4SsjjlwvL5DrIktApUcRQrLoMBwZSlyEEr6ohDe4hmoMRrlQ3Fp402Rx8OJrk2/ICOTD5kDg751SVzEr+rqr2TtYs77vxoOXPWSAlYic9OUcFwfxIqxJM59dKb1+E9CKdDfIR1OAaYKi5arh8XTBMGk0bJh3/4ak5BLhPHp7+Txj/giMOJPCywHj4m51o6E0q63j4XzTqqBk/mh+pj1S9ejq0+gWMyN0K17a2MwDsu1DSTbo9FtFwDNu3KKfVOm+xyfwrU+UXZeOqi9IQOGLPHiSSDnHaIFKDiHWc4fx+uP0eTE2z3uCpjX7dXAUrUDLEPjvnVNIDQyxVH90WedS1kWWi4ijm41Og2abonG6hHDjh5iOKZgbFLrZgU9iw3fBH4jl5TziiPAcGqyFnYp7rGFM371fZhxmivdBNmiAyYXUecbW7Jj01cX7ixB5EJATti8hFbib5GmOZIObhTVlxHJVxDgR2TJO1wmgL0kDiL8g4rnH9sNngl4AyB+AOWO/az5bNf0AdlaAJT+7mabKmaAKX5BKF/G6N9GS31cPw3OAJ1rdt/Q0Zx8fQg/O81dz8dS9hBECE2fazmR+N9zRsf3mBnhaKkY2GSwhudgAvNGun4DqgTYfKzzQWvyy6ZzkLq2iEqlUMaQge/zArPpmCY1fcT6SXLgLI="
   domain: ops.party
